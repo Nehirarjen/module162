@@ -5,7 +5,7 @@ Danach haben wir das [Markdown Tutorial](https://www.markdowntutorial.com/de/les
 
 
 (25.08.2025) Zusammenfassung Strukturierte Daten: 
-Datenstruktur: Objekt zur Speicherung und Organisation von Daten
-Strukturierte Daten: Grundform (Tabelle, Kette...)
+Datenstruktur: Objekt zur Speicherung und Organisation von Daten  
+Strukturierte Daten: Grundform (Tabelle, Kette...)  
 Einordnung: semi-strukturierte Daten haben kein Datenmodell aber eine gewisse Struktur (z.m.B Mail)
 Unstrukturierte Daten 
