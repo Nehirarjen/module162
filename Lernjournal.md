@@ -4,8 +4,13 @@ Heute (18.08.2025) haben wir uns im Gitlab eingeloggt. Da es bei mir nicht funkt
 Danach haben wir das [Markdown Tutorial](https://www.markdowntutorial.com/de/lesson/1/) angefangen
 
 
-(25.08.2025) Zusammenfassung Strukturierte Daten:   
+(25.08.2025) **Zusammenfassung Strukturierte Daten**    
 Datenstruktur: Objekt zur Speicherung und Organisation von Daten  
 Strukturierte Daten: Grundform (Tabelle, Kette...)  
 Einordnung: semi-strukturierte Daten haben kein Datenmodell aber eine gewisse Struktur (z.m.B Mail)
 Unstrukturierte Daten 
+
+[**Skalentypen**](https://gitlab.com/ch-tbz-it/Stud/m162/-/raw/main/Daten_Formate/images/Skalenniveaus.jpg)
+Nominalskala: Keine Rangordnung/ alle gleichwertig  
+Ordinalskala: Rangordnung  
+Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)  
