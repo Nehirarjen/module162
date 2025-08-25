@@ -14,3 +14,37 @@ Unstrukturierte Daten
 Nominalskala: Keine Rangordnung/ alle gleichwertig  
 Ordinalskala: Rangordnung  
 Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)  
+
+
+**Schweizer Datenschutzgesetz**  
+•Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?  
+* 01, September 2023
+ 
+     
+•In welchen Fällen müssen Verantwortliche mit Sitz im Ausland einen Schweiz-Vertreter benennen?    
+* Verarbeitung steht im Zusammenhang mit dem Angebot der Waren oder Dienstleistungen in der Schweiz.
+* Die Verarbeitung personbezogener Daten ist umfangreich und findet regelmässig statt.
+* Die Verarbeitung führt wahrscheinlich zu einem hohen Risiko für die Privatsphäre der betroffenen Person.
+
+
+**Lizenzmodelle**  
+Erklären Sie das Wort Lizenz. Was bedeutet das?   
+* Offiziele Erlaubnis etwas zu machen/ zu besitzen  
+Warum kommt man auf die Idee, Lizenzen zu schaffen?  
+* Um Unfälle und Gefährliches zu vermeiden (z.m.B Führerschein)  
+Worauf gibt es alles Lizenzen ausser für Software?  
+* Es gibt Lizenzen für Berufe und Tätigkeiten wie fahren und fliegen.
+Machen Sie eine Aufzählung von Lizenzmodellen.
+* Proprietäre Software
+* FOSS/ Open Source
+* Volumenlizenz
+* CSP/ Cloud Solution Provider
+* OEM
+* PKC/ Prodct Key Card
+* FPP/ Full packaged Product
+  
+Was bedeutet "open source" und was kann man mit solcher Software machen?  
+* Es bedeutet "Offene Quelle" und es ist dafür gemacht, dass eine Software öffentlich, also zugänglich für die Öffentlichkeit ist.
+* 
+Was ist der Unterschied zwischen "copyright" und "copyleft"?
+*   Copyright beschützt ein Werk, so das es
