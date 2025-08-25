@@ -47,4 +47,14 @@ Was bedeutet "open source" und was kann man mit solcher Software machen?
 * Es bedeutet "Offene Quelle" und es ist dafür gemacht, dass eine Software öffentlich, also zugänglich für die Öffentlichkeit ist.
 * 
 Was ist der Unterschied zwischen "copyright" und "copyleft"?
-*   Copyright beschützt ein Werk, so das es
+*   Copyright beschützt ein Werk, so das es ohne Erlaubnis nicht benutzt oder bearbeitet werden kann.
+*   Copyleft ist dafür, das man ein Werk frei nutzen und teilen kann. Also sollte es man nur nutzen, wenn man es wieder teilt.
+
+  
+  Welches Lizenz-Modell wird angewendet, wenn man 
+	- im App-Store eine zu bezahlende App heunterlädt und installiert?
+	- im App-Store eine Gratis-App heunterlädt und installiert?
+	- Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben? Wenn Sie es nicht wissen, ob Sie extra bezahlt haben, wie und wann bezahlen Sie?
+ * Bezahlbare App: EULA, also eine Art "Vertrag" zwischen dem Anbieter und mir
+ * Gratis App: Freeware, Lizenz zur Nutzung 
+ * Bei einem iPhone sind die Lizenzkosten im Preis schon mitberechnet (Apple iOS EULA).
