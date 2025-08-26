@@ -40,7 +40,7 @@ Machen Sie eine Aufzählung von Lizenzmodellen.
 * Volumenlizenz
 * CSP/ Cloud Solution Provider
 * OEM
-* PKC/ Prodct Key Card
+* PKC/ Product Key Card
 * FPP/ Full packaged Product
   
 Was bedeutet "open source" und was kann man mit solcher Software machen?  
