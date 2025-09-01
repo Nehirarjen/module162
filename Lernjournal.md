@@ -60,7 +60,7 @@ Was ist der Unterschied zwischen "copyright" und "copyleft"?
  * Bei einem iPhone sind die Lizenzkosten im Preis schon mitberechnet (Apple iOS EULA).
 
    
-(01.09.2025)**Einfache Datentypen**
+(01.09.2025)**Einfache Datentypen**   
 
 | Wert                                           | Datentype(n) |
 | ---------------------------------------------- | ------------ |
@@ -76,50 +76,50 @@ Was ist der Unterschied zwischen "copyright" und "copyleft"?
 | {name: "Meier", vorname: "Maxwell", alter: 21} |                                 |
 
 
-Ganze Zahlen: BIGINT, INT, INTEGER, LONG, SHORT
-Natürliche Zahlen: NATURAL
-Festkommazahlen (Dezimalzahlen): DECIMAL, NUMERIC
-Aufzählungstypen: ENUM, SET
-Boolean (logische Werte): BOOL, BOOLEAN
-Zeichen (einzelnes Zeichen): CHAR, CHARACTER
-Gleitkommazahlen: DOUBLE, FLOAT
-ARRAY
-DATE, TIME, DATETIME, TIMESTAMP
+Ganze Zahlen: BIGINT, INT, INTEGER, LONG, SHORT   
+Natürliche Zahlen: NATURAL   
+Festkommazahlen (Dezimalzahlen): DECIMAL, NUMERIC   
+Aufzählungstypen: ENUM, SET   
+Boolean (logische Werte): BOOL, BOOLEAN   
+Zeichen (einzelnes Zeichen): CHAR, CHARACTER   
+Gleitkommazahlen: DOUBLE, FLOAT   
+ARRAY   
+DATE, TIME, DATETIME, TIMESTAMP   
 
 
-**Datensatz**
-Verkörpern Werte, die andere Werte enthalten. Üblichwerweise in einer fest definierten Anzahl und Folge.
+**Datensatz**   
+Verkörpern Werte, die andere Werte enthalten. Üblichwerweise in einer fest definierten Anzahl und Folge.   
 Bsp. (ID=12, Vorname=Hans)
 
-**Array**
-Speichert mehrere Variablen vom selbem Datentyp. Zugriff auf die einzelne Elemente wird über einen Index möglich.
+**Array**   
+Speichert mehrere Variablen vom selbem Datentyp. Zugriff auf die einzelne Elemente wird über einen Index möglich.   
 Bsp. (12, 45, 38, 28)
 
-**Verkettete Liste**
-Datenstruktur zur dynamischen Speicherung von beliebig vielen Objekten. Jedes Listenelement beinhaltet einen Verweis auf das nächste Element.
+**Verkettete Liste**   
+Datenstruktur zur dynamischen Speicherung von beliebig vielen Objekten. Jedes Listenelement beinhaltet einen Verweis auf das nächste Element.   
 Analogie: Zug-Komposition. Die Wagen sind jeweils verbunden.
 
-**Stapelspeicher/ Stack**
-In einem Stapelspeicher kann man nur das letzt hinzugefügte wieder entfernen/ lesen. (LIFO-Prinzip= Last in-First out)
+**Stapelspeicher/ Stack**   
+In einem Stapelspeicher kann man nur das letzt hinzugefügte wieder entfernen/ lesen. (LIFO-Prinzip= Last in-First out)   
 Analogie: Im Bus, der letzte der reingeht muss als erstes raus.
 
-**Warteschlange**
-In einer Warteschlange können die Objekte nur in der Reihenfolge gelesen werden, in der sie gespeichert worden sind. (FIFO-Prinzip= First in-First out)
+**Warteschlange**   
+In einer Warteschlange können die Objekte nur in der Reihenfolge gelesen werden, in der sie gespeichert worden sind. (FIFO-Prinzip= First in-First out)    
 
-**Vorrangwarteschlange**
-Eine Spezialisierung der Warteschlange. Dabei wird das Objekt gemäss einer gegebenen Priotität sortiert.
+**Vorrangwarteschlange**   
+Eine Spezialisierung der Warteschlange. Dabei wird das Objekt gemäss einer gegebenen Priotität sortiert.   
 Analogie: Warteschlange vor CLUB/ Disko mit VIP-Liste
 
-**Graph**
-Ermöglicht, eine Referenz auf mehrere Objekte zu halten.
+**Graph**   
+Ermöglicht, eine Referenz auf mehrere Objekte zu halten.   
 Analogie: GPS Navigationssystem mit Wegen und Zeiten.
 
-**Baum**
-Besitzten eine eingehende Verknüpfung, aber mehrere ausgehende Verknüpfungen.
+**Baum**   
+Besitzten eine eingehende Verknüpfung, aber mehrere ausgehende Verknüpfungen.   
 Bsp. Dateisystem auf dem Computer.
 
-**Heap**
-Vereint die Datenstruktur eines Baums mit der der Vorrangwarteschlange. 
+**Heap**   
+Vereint die Datenstruktur eines Baums mit der der Vorrangwarteschlange.    
 Analogie: Warteschlange nach Priorität(z.m.B Krankenhaus).
 
 **Hashtabelle**
