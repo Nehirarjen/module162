@@ -123,5 +123,5 @@ Vereint die Datenstruktur eines Baums mit der der Vorrangwarteschlange.
 Analogie: Warteschlange nach Priorität(z.m.B Krankenhaus).
 
 **Hashtabelle**
-Eine Tabelle in der die Speicherposition direkt berechnet werden kann. Man gibt einen Schlüssel ein (z.m.B "Name") und er sagt dir direkt, wo er liegt(z.m.B Index 1 = steht die "Telefonnummer" von "Name").
+Eine Tabelle in der die Speicherposition direkt berechnet werden kann. Man gibt einen Schlüssel ein (z.m.B "Name") und er sagt dir direkt, wo er liegt(z.m.B Index 1 = steht die "Telefonnummer" von "Name").   
 Analogie: Buchregal, jedes Buch hat einen Code und ein Regal, in das er gehört. Das Hash System zeigt diese Informationen, wenn man den Namen(Schlüssel) des Buches eingibt.
