@@ -115,7 +115,7 @@ Ermöglicht, eine Referenz auf mehrere Objekte zu halten.
 Analogie: GPS Navigationssystem mit Wegen und Zeiten.
 
 **Baum**   
-Besitzten eine eingehende Verknüpfung, aber mehrere ausgehende Verknüpfungen.   
+Besitzten eine eingehende Verknüpfung, aber mehrere ausgehende Verknüpfungen.
 Bsp. Dateisystem auf dem Computer.
 
 **Heap**   
