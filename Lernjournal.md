@@ -76,3 +76,22 @@ Analogie: Warteschlange nach Priorität(z.m.B Krankenhaus).
 **Hashtabelle**
 Eine Tabelle in der die Speicherposition direkt berechnet werden kann. Man gibt einen Schlüssel ein (z.m.B "Name") und er sagt dir direkt, wo er liegt(z.m.B Index 1 = steht die "Telefonnummer" von "Name").   
 Analogie: Buchregal, jedes Buch hat einen Code und ein Regal, in das er gehört. Das Hash System zeigt diese Informationen, wenn man den Namen(Schlüssel) des Buches eingibt.
+
+
+**JSON/ JavaScript Object Notation**(08.09.2025)  
+
+Verwendung: Speichern, Empfangen und Transportieren von Daten. 
+
+   * Datendarstellungsformat    
+   * Wird für APIs und Konfig. verwendet
+   * Einfach zu schreiben/ lesen
+   * Kompatibel mit den meisten Sprachen
+   * Leichtgewichtige Daten
+
+**Types**   
+ * Strings: Words
+ * Numbers: 10, 1.5
+ * Booleans: true, false
+ * null: null
+ * Arrays: [1, 2, 3], ["Hello", "World"]
+ * Objects: {"key": "value"}, {"age": 30}
