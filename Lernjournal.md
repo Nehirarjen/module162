@@ -11,9 +11,14 @@ Einordnung: semi-strukturierte Daten haben kein Datenmodell aber eine gewisse St
 Unstrukturierte Daten 
 
 (25.08.2025)[**Skalentypen**](https://gitlab.com/ch-tbz-it/Stud/m162/-/raw/main/Daten_Formate/images/Skalenniveaus.jpg)
-* Nominalskala: Keine Rangordnung/ alle gleichwertig  
-* Ordinalskala: Rangordnung  
-* Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)   
+* Nominalskala: Keine Rangordnung/ alle gleichwertig, Klassifikation
+  zmB: Geschlecht, Stadt     
+* Ordinalskala: Rangordnung ist definiert, keine Abstände
+  zmB: Schulnoten   
+* Intervalssklala: Rangordnung, Abstände definiert
+  zmB: IQ, Temperatur
+  * Verhältnisskala: Rangordnung, Abstände definiert, natürlicher Nullpunkt
+  zmB: Körpergewicht, Lohn, Alter, Länge (cm)    
 
 
 (01.09.2025)**Einfache Datentypen**   
