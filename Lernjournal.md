@@ -10,7 +10,12 @@ Strukturierte Daten: Grundform (Tabelle, Kette...)
 Einordnung: semi-strukturierte Daten haben kein Datenmodell aber eine gewisse Struktur (z.m.B Mail)
 Unstrukturierte Daten 
 
-   
+(25.08.2025)[**Skalentypen**](https://gitlab.com/ch-tbz-it/Stud/m162/-/raw/main/Daten_Formate/images/Skalenniveaus.jpg)
+* Nominalskala: Keine Rangordnung/ alle gleichwertig  
+* Ordinalskala: Rangordnung  
+* Kardinalskala: Rangordnung/ Abstände sind interpretierbar (z.m.B L)   
+
+
 (01.09.2025)**Einfache Datentypen**   
 
 | Wert                                           | Datentype(n) |
