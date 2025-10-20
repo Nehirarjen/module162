@@ -105,3 +105,26 @@ Verwendung: Speichern, Empfangen und Transportieren von Daten.
  * null: null
  * Arrays: [1, 2, 3], ["Hello", "World"]
  * Objects: {"key": "value"}, {"age": 30}
+
+
+***Kardinalitäten: Kardinalität von Beziehungen definiert wie viele Entitäten eines Entität-typs genau beteiligt in Beziehung stehen***  
+
+**ERM**
+ * Eine Entität ist ein individuelles identifizierbares Objekt
+ * Eine Beziehung ist eine Verknüpfung / Zusammenhang zwischen den Objekten 
+ 
+ 
+ **Normalformen**
+ * 1NF - Wertrebereiche der Attribute des Reltionstypen liegen vor
+ * 2NF - 1NF aufgeteilt in logische Gruppen
+ * 3NF - 2NF und keine transitive Abhängigkeiten
+Beispiel 2NF --> 3NF : PLZ, ORT --> Gruppe PlzOrt
+
+***Reverse Engineering***
+
+**ACID**
+4 Eigenschaften
+ACID Database: Atomicity, Conistency, Isolation, Durability
+
+
+***primary key - rechnungsId, foreign key - kundenId(zahlen können mehrmals vorkommen)***
