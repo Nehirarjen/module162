@@ -128,3 +128,5 @@ ACID Database: Atomicity, Conistency, Isolation, Durability
 
 
 ***primary key - rechnungsId, foreign key - kundenId(zahlen können mehrmals vorkommen)***
+
+***ERD***
